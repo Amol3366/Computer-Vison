@@ -7,14 +7,12 @@ Welcome to the dedicated directory for my computer vision competitions on Kaggle
 
 ## Overview
 
-This directory serves as a centralized hub for storing code, notebooks, datasets, and other resources pertinent to computer vision competitions. Leveraging advanced techniques and frameworks such as TensorFlow, Keras, Matplotlib, Pandas, NumPy, and more, these competitions aim to address real-world image analysis problems and foster innovation in the field of computer vision.
+This directory serves as a centralized hub for storing code, notebooks and other resources pertinent to computer vision competitions. Leveraging advanced techniques and frameworks such as TensorFlow, Keras, Matplotlib, Pandas, NumPy, and more, these competitions aim to address real-world image analysis problems and foster innovation in the field of computer vision.
 
 ## Content
 
 - **Notebooks**: Explore a collection of Jupyter notebooks showcasing my approach, methodologies, and solutions for different computer vision challenges.
   
-- **Datasets**: Access datasets used in the competitions to train and evaluate machine learning models, enabling reproducibility and experimentation.
-
 - **Models**: Find pre-trained models and trained weights applicable to various computer vision tasks, facilitating rapid prototyping and experimentation.
 
 ## Frameworks and Libraries
@@ -33,8 +31,9 @@ This directory utilizes a range of frameworks and libraries, including but not l
 To get started with exploring this directory:
 
 1. Clone this repository to your local machine.
-2. Navigate through the directories to access notebooks, datasets, and other resources related to specific competitions.
-3. Experiment with the provided code and datasets, and adapt the solutions to address similar challenges or explore new ideas.
+2. Navigate through the directories to access notebooks and other resources related to specific competitions.
+3. Experiment with the provided code and adapt the solutions to address similar challenges or explore new ideas.
+4. It can be used for any 2D image dataset.
 
 ## Contributions
 
